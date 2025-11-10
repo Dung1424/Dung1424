@@ -52,9 +52,9 @@ Repository: [express-to-the-one-you-love](https://github.com/dangtiendung1409/ex
 
 ## 🚀 GitHub Profile Summary
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dangtiendung1409&theme=radical)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dung1424&theme=radical)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dangtiendung1409&theme=radical)            ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dangtiendung1409&theme=radical)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dung1424&theme=radical)            ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dung1424&theme=radical)
 
 <!--
 **dangtiendung1409/dangtiendung1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
