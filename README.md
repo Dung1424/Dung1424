@@ -17,9 +17,6 @@
 
 ## 🛠️ Skills
 
-
-## 🛠️ Skills
-
 <table>
   <tr>
     <td><strong>Frontend</strong></td>
