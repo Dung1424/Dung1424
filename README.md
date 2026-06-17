@@ -8,10 +8,9 @@
 ## 👨‍💻 About Me ✨
 
 - 🌍 **Location**: Viet Nam 🇻🇳 
-- 🌐 Connect with me on Gmail: dangtiendung257@gmail.com
 - 💬 Ask me about php , laravel and vuejs 
 - ⚡ Penguins propose to their mates with pebbles, but I’d propose with a perfect line of code
-- ✉️ Contact me: dangtiendung257@gmail.com
+- ✉️ Contact me on Gmail: dangtiendung257@gmail.com
 
 ---
 
