@@ -22,12 +22,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to output branch
-        uses: EndBug/add-and-commit@v9
+      - name: Deploy Snake
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "chore: update contribution snake"
-          add: "dist"
-          push: true
-          new_branch: output
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
