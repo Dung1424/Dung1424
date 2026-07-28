@@ -1,102 +1,113 @@
-<!-- ===================================================== -->
+<!-- ========================================================= -->
 
-<!--                    ANIME CYBERPUNK                     -->
+<!--                  DANG TIEN DUNG                           -->
 
-<!--                 ĐẶNG TIẾN DŨNG PROFILE                 -->
+<!--            CYBERPUNK DEVELOPER PROFILE                    -->
 
-<!-- ===================================================== -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<!-- 🌌 ANIMATED HEADER -->
+<!-- ===================== HERO ====================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=280&section=header&text=ĐẶNG%20TIẾN%20DŨNG&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20CODE%20%7C%20CREATE%20%7C%20DREAM&descSize=18&descAlignY=58" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,30:12005e,65:4c00ff,100:00e5ff&height=300&section=header&text=DANG%20TIEN%20DUNG&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=58"
+width="100%"
+/>
 
 <br>
 
-<!-- ⚡ TYPING ANIMATION -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Welcome+to+my+digital+world+%E2%9A%A1;%F0%9F%91%8B+Hi%2C+I'm+%C4%90%E1%BA%B7ng+Ti%E1%BA%BFn+D%C5%A9ng;%F0%9F%92%BB+Full+Stack+Web+Developer;%F0%9F%94%A5+Laravel+%7C+Vue.js+%7C+React+%7C+Node.js;%F0%9F%9A%80+Turning+ideas+into+real+products;%F0%9F%8C%8C+Code.+Create.+Repeat." alt="Typing SVG" />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=%5B+SYSTEM+ONLINE+%5D;%3E+Hello%2C+world.+I'm+Dang+Tien+Dung.;%3E+Full+Stack+Web+Developer.;%3E+I+build+things+that+live+on+the+web.;%3E+Laravel+%2B+Vue.js+%2B+Node.js;%3E+Turning+ideas+into+digital+experiences.;%5B+ENTERING+DEVELOPER+MODE+%5D"
+alt="Typing animation"
+/>
 
 <br><br>
 
-<!-- 👀 PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=dangtiendung1409&label=VISITORS&color=00e5ff&style=for-the-badge"/>
 
-<img src="https://komarev.com/ghpvc/?username=dangtiendung1409&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge"/>
+ 
 
-<img src="https://img.shields.io/github/followers/dangtiendung1409?label=FOLLOWERS&style=for-the-badge&color=7b2ff7"/>
+<a href="https://github.com/dangtiendung1409?tab=followers">
+<img src="https://img.shields.io/github/followers/dangtiendung1409?label=FOLLOWERS&style=for-the-badge&color=7c3aed"/>
+</a>
 
 </div>
 
 ---
 
-# 🌌 WHO AM I?
+<!-- ================= SYSTEM BOOT ================= -->
 
 <div align="center">
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ1NnQ1Y3J2cDZ4ZDJpZ3U0dG9tZWJ1ZGF2d3B3aHJ5Z3U5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif"/>
+# 🖥️ SYSTEM BOOT
 
-### 👋 Hey! I'm Đặng Tiến Dũng
-
-💻 Full Stack Web Developer
-
-🇻🇳 Based in Viet Nam
-
-🚀 Building things for the web
-
-🌱 Always learning something new
-
-🔥 Passionate about clean code
-
-🎮 Anime & Technology Enthusiast
-
-☕ Powered by Coffee & Code
-
-<br>
-
-> "The code you write today
-> is the world you build tomorrow."
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=500&color=00FF9C&center=true&vCenter=true&width=700&lines=%5BOK%5D+Loading+Developer+Profile...;%5BOK%5D+Initializing+Creativity...;%5BOK%5D+Connecting+to+GitHub...;%5BOK%5D+Loading+Laravel...;%5BOK%5D+Loading+Vue.js...;%5BOK%5D+Loading+Node.js...;%5BOK%5D+All+systems+operational."
+/>
 
 </div>
 
-<br clear="right"/>
+<br>
+
+```text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│   ██████╗  █████╗ ███╗   ██╗ ██████╗                    │
+│   ██╔══██╗██╔══██╗████╗  ██║██╔════╝                    │
+│   ██║  ██║███████║██╔██╗ ██║██║  ███╗                   │
+│   ██║  ██║██╔══██║██║╚██╗██║██║   ██║                   │
+│   ██████╔╝██║  ██║██║ ╚████║╚██████╔╝                   │
+│   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝                    │
+│                                                          │
+│   [ IDENTITY ]     DANG TIEN DUNG                        │
+│   [ CLASS ]        FULL STACK DEVELOPER                  │
+│   [ LOCATION ]     VIET NAM 🇻🇳                           │
+│   [ STATUS ]       ONLINE                                │
+│   [ MODE ]         BUILDING                              │
+│   [ POWER ]        COFFEE + CODE ☕                      │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+```
 
 ---
 
-# 🧑‍💻 DEVELOPER PROFILE
+# 🧬 CHARACTER // DANG TIEN DUNG
 
 <div align="center">
 
 <table>
 <tr>
 
-<td width="250" align="center">
+<td width="50%" align="center">
 
-### 🧑‍💻
-
-## DUNG
-
-**FULL STACK**
-
-DEVELOPER
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ1NnQ1Y3J2cDZ4ZDJpZ3U0dG9tZWJ1ZGF2d3B3aHJ5Z3U5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="380"/>
 
 </td>
 
-<td width="500">
+<td width="50%" align="left">
 
-```text
-╔══════════════════════════════════════════════╗
-║          DANG TIEN DUNG // SYSTEM            ║
-╠══════════════════════════════════════════════╣
-║ STATUS       : ONLINE                        ║
-║ ROLE         : FULL STACK DEVELOPER          ║
-║ LOCATION     : VIET NAM 🇻🇳                  ║
-║ CURRENT MODE : BUILDING 🚀                   ║
-║ POWER SOURCE : COFFEE ☕                      ║
-║ MAIN QUEST   : CREATE SOMETHING AWESOME      ║
-║ SIDE QUEST   : LEARN NEW TECHNOLOGIES        ║
-╚══════════════════════════════════════════════╝
-```
+### 👋 HELLO, I'M DŨNG
+
+I'm a passionate programmer who enjoys turning ideas into real products.
+
+I love exploring new technologies, solving difficult problems, and building experiences that people can actually use.
+
+<br>
+
+🌌 **Mindset**
+
+> Learn → Build → Break → Fix → Improve
+
+<br>
+
+🔥 **Currently**
+
+Building things for the web.
+
+Learning new technologies.
+
+Exploring better ways to create.
 
 </td>
 
@@ -107,81 +118,43 @@ DEVELOPER
 
 ---
 
-# ⚡ MY DEVELOPER JOURNEY
+# ⚡ TECH ARSENAL
 
 <div align="center">
 
-```text
-🌱 START
-   │
-   ├── 💻 First Line of Code
-   │
-   ├── 🐛 First Bug
-   │
-   ├── 🔥 First Project
-   │
-   ├── 🚀 First Production App
-   │
-   ├── 🌐 Full Stack Development
-   │
-   └── 🌌 NEXT LEVEL...
-```
+### 🎨 DIGITAL INTERFACE
 
-<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,react,nextjs&theme=dark"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Learning+never+stops...;%E2%9A%A1+Keep+coding;%F0%9F%9A%80+Keep+building;%F0%9F%8C%B8+Keep+growing." />
+<br><br>
+
+### ⚙️ SERVER CORE
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,dotnet,spring&theme=dark"/>
+
+<br><br>
+
+### 📱 MOBILE UNIT
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark"/>
+
+<br><br>
+
+### 🗄️ DATA CORE
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&theme=dark"/>
+
+<br><br>
+
+### 🚀 INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github&theme=dark"/>
 
 </div>
 
 ---
 
-# 🌌 MY TECH UNIVERSE
-
-<div align="center">
-
-## 🎨 FRONTEND
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,react,nextjs&theme=dark" />
-
-<br><br>
-
-## ⚙️ BACKEND
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,dotnet,spring&theme=dark" />
-
-<br><br>
-
-## 📱 MOBILE
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
-
-<br><br>
-
-## 🗄️ DATABASE
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&theme=dark" />
-
-<br><br>
-
-## 🚀 DEVOPS & TOOLS
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github&theme=dark" />
-
-</div>
-
----
-
-# 🧙‍♂️ MY DEVELOPER CLASS
+# 🌌 MY DIGITAL UNIVERSE
 
 <div align="center">
 
@@ -189,65 +162,81 @@ DEVELOPER
 
 <tr>
 
-<td align="center" width="200">
+<td align="center" width="250">
 
-## ⚔️
+### 🎨
 
-### BACKEND
-
-Laravel
-
-Node.js
-
-.NET
-
-Spring
-
-</td>
-
-<td align="center" width="200">
-
-## 🎨
-
-### FRONTEND
+**FRONTEND**
 
 Vue.js
-
+Nuxt.js
 React
-
-Nuxt
-
 Next.js
 
 </td>
 
-<td align="center" width="200">
+<td align="center" width="250">
 
-## 📱
+### ⚙️
 
-### MOBILE
+**BACKEND**
 
-Flutter
-
-Dart
-
-Cross Platform
+Laravel
+Node.js
+.NET
+Spring
 
 </td>
 
-<td align="center" width="200">
+<td align="center" width="250">
 
-## ☁️
+### 📱
 
-### INFRA
+**MOBILE**
+
+Flutter
+Dart
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🗄️
+
+**DATABASE**
+
+MySQL
+MongoDB
+Redis
+SQLite
+
+</td>
+
+<td align="center">
+
+### ☁️
+
+**DEVOPS**
 
 Docker
-
 Nginx
-
-Linux
-
 MinIO
+
+</td>
+
+<td align="center">
+
+### 🛠️
+
+**WORKFLOW**
+
+Git
+GitHub
+Linux
 
 </td>
 
@@ -259,167 +248,222 @@ MinIO
 
 ---
 
-# 💻 CODE MODE: ACTIVATED
+# 🎮 PROJECT ARCADE
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDk5dXV1aHczam5zOW9hNWZxMG5pMnhvNnA1c3F6am1rN3A4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="500"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+Developer+Mode...;%3E+Loading+Laravel...;%3E+Loading+Vue.js...;%3E+Loading+Node.js...;%3E+Connecting+to+GitHub...;%3E+System+Ready+%E2%9A%A1" />
+> Enter the world of my creations.
 
 </div>
 
----
-
-# 🚀 FEATURED PROJECTS
-
-<div align="center">
+<br>
 
 ## 🎆 NEW YEAR FIREWORKS
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/PROJECT-01-00E5FF?style=for-the-badge"
+/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<br><br>
-
-🎇 A visually impressive fireworks simulation built with HTML5, CSS and JavaScript.
-
-✨ Interactive experience
-🎆 Beautiful fireworks animation
-🎉 Perfect for New Year celebrations
-
-<br>
-
-<a href="https://dangtiendung1409.github.io/New-year-fireworks/">
-
-<img src="https://img.shields.io/badge/▶%20PLAY%20LIVE%20DEMO-00D9FF?style=for-the-badge&logo=firefox&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/dangtiendung1409/New-year-fireworks">
-
-<img src="https://img.shields.io/badge/★%20VIEW%20SOURCE-7B2FF7?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
+<img
+src="https://img.shields.io/badge/TYPE-INTERACTIVE-7C3AED?style=for-the-badge"
+/>
 
 </div>
 
 <br>
 
-<div align="center">
+<table>
+<tr>
 
-## 💌 EXPRESS TO THE ONE YOU LOVE
+<td width="55%">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+### 🎇 The Experience
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+A visually impressive fireworks simulation built with **HTML5, CSS and JavaScript**.
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+Designed to create a beautiful interactive experience for New Year celebrations.
+
+<br>
+
+✨ Interactive experience
+
+🎆 Fireworks animation
+
+🎉 Celebration atmosphere
+
+🌌 Pure web experience
+
+</td>
+
+<td width="45%" align="center">
+
+<a href="https://dangtiendung1409.github.io/New-year-fireworks/">
+
+<img src="https://img.shields.io/badge/▶_LIVE_DEMO-00E5FF?style=for-the-badge&logo=firefox&logoColor=white"/>
+
+</a>
 
 <br><br>
 
-❤️ A romantic interactive web experience designed to express your feelings to someone special.
+<a href="https://github.com/dangtiendung1409/New-year-fireworks">
 
-💌 Interactive
-🌸 Romantic
-✨ Made with love
+<img src="https://img.shields.io/badge/★_SOURCE_CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 💌 EXPRESS TO THE ONE YOU LOVE
+
+<div align="center">
+
+<img
+src="https://img.shields.io/badge/PROJECT-02-FF1493?style=for-the-badge"
+/>
+
+<img
+src="https://img.shields.io/badge/TYPE-ROMANTIC-7C3AED?style=for-the-badge"
+/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="45%" align="center">
+
+<img
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2h1d3J0NWx4eG9tN2R4a2F6dW1zOGF6M2F5YjRrZzR5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHONQ79FdWZhAI0/giphy.gif"
+width="350"
+/>
+
+</td>
+
+<td width="55%">
+
+### ❤️ The Experience
+
+A small interactive web experience created to help someone express their feelings to someone special.
+
+<br>
+
+💌 Send a message
+
+🌸 Romantic atmosphere
+
+✨ Interactive experience
+
+❤️ Made with love
 
 <br>
 
 <a href="https://dangtiendung1409.github.io/express-to-the-one-you-love/">
 
-<img src="https://img.shields.io/badge/❤%20OPEN%20THE%20MESSAGE-FF1493?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/❤_OPEN_EXPERIENCE-FF1493?style=for-the-badge"/>
 
 </a>
+
+ 
 
 <a href="https://github.com/dangtiendung1409/express-to-the-one-you-love">
 
-<img src="https://img.shields.io/badge/★%20VIEW%20SOURCE-7B2FF7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/★_SOURCE-7C3AED?style=for-the-badge&logo=github"/>
 
 </a>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🌸 ANIME MOMENT
+# 🛰️ LIVE SIGNAL
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J6Z3ZxNm1wZ3d3M3p3MGh4YzY3Z3F2dWQ5cGx5b3N1cWJ6eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btNa0RUYa5E7iiQ/giphy.gif" width="700"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=800&lines=%3E+Scanning+developer+activity...;%3E+Analyzing+repositories...;%3E+Reading+contribution+signals...;%3E+Connection+established."
+/>
 
 <br><br>
 
-### 🌌 "Even in the darkest night, keep coding."
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+anime+world...;%F0%9F%8C%B8+Dream+Big;%E2%9A%A1+Code+Hard;%F0%9F%9A%80+Build+The+Future" />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=dangtiendung1409&theme=react-dark&hide_border=true&area=true"
+width="100%"
+/>
 
 </div>
 
 ---
 
-# 📊 GITHUB POWER
+# 📊 GITHUB // DATA CORE
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dangtiendung1409&theme=radical" width="100%"/>
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dangtiendung1409&theme=radical"
+width="100%"
+/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dangtiendung1409&theme=radical" width="49%"/>
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dangtiendung1409&theme=radical"
+width="49%"
+/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dangtiendung1409&theme=radical" width="49%"/>
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dangtiendung1409&theme=radical"
+width="49%"
+/>
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENT // UNLOCKED
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=dangtiendung1409&theme=radical&no-frame=true&no-bg=true&margin-w=10"
+width="100%"
+/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION // ALIVE
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/dangtiendung1409/dangtiendung1409/output/github-contribution-grid-snake.svg"
+width="100%"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=dangtiendung1409&theme=radical&hide_border=true"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=%5B+CONTRIBUTION+MONSTER+ONLINE+%5D;%F0%9F%90%8D+The+snake+is+hungry...;%E2%9A%A1+Keep+coding.;%F0%9F%9A%80+Keep+shipping."
+/>
 
 </div>
 
 ---
 
-# 🏆 ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dangtiendung1409&theme=radical&no-frame=true&no-bg=true&margin-w=10" width="100%"/>
-
-</div>
-
----
-
-# 📈 CONTRIBUTION UNIVERSE
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dangtiendung1409&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-# 🐍 THE CONTRIBUTION MONSTER
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dangtiendung1409/dangtiendung1409/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=My+contributions+are+alive...;%F0%9F%90%8D+The+snake+is+hungry...;%E2%9A%A1+Keep+committing;%F0%9F%9A%80+Keep+building!" />
-
-</div>
-
----
-
-# 🔮 CURRENT QUEST
+# 🔮 CURRENT MISSION
 
 <div align="center">
 
@@ -427,43 +471,43 @@ MinIO
 
 <tr>
 
-<td align="center">
+<td align="center" width="25%">
 
 🌱
 
-### LEARNING
+### LEARN
 
-Exploring new technologies
+Discover new technologies
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 🔨
 
-### BUILDING
+### BUILD
 
-Creating new projects
+Create meaningful projects
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 🧠
 
-### IMPROVING
+### IMPROVE
 
-Writing better code
+Write better software
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 🚀
 
-### DREAMING
+### SHIP
 
-Building something amazing
+Turn ideas into reality
 
 </td>
 
@@ -475,49 +519,48 @@ Building something amazing
 
 ---
 
-# 🎯 MY DEVELOPER PHILOSOPHY
+# 🌸 BEYOND THE CODE
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=%22First%2C+make+it+work.%22;%22Then%2C+make+it+better.%22;%22Finally%2C+make+it+beautiful.%22" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-> 💻 **Code** is creativity
->
-> 🧠 **Learning** is evolution
->
-> 🚀 **Building** is the adventure
->
-> 🌌 **The journey never ends**
-
-</div>
-
----
-
-# 📡 CONNECT WITH ME
-
-<div align="center">
-
-<a href="mailto:dangtiendung257@gmail.com">
-
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/dangtiendung1409">
-
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Sometimes+I+write+code.;Sometimes+I+watch+anime.;Sometimes+I+break+production.;Sometimes+I+fix+production.;Always%2C+I+keep+learning."
+/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%F0%9F%8C%B8;Let's+build+something+awesome+together+%F0%9F%9A%80" />
+<img
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ1NnQ1Y3J2cDZ4ZDJpZ3U0dG9tZWJ1ZGF2d3B3aHJ5Z3U5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif"
+width="500"
+/>
+
+</div>
+
+---
+
+# 📡 ESTABLISH CONNECTION
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=%3E+Looking+for+interesting+people...;%3E+Looking+for+interesting+projects...;%3E+Looking+for+interesting+ideas...;%3E+Let's+build+something+awesome."
+/>
+
+<br><br>
+
+<a href="mailto:dangtiendung257@gmail.com">
+
+<img src="https://img.shields.io/badge/EMAIL-DANG%20TIEN%20DUNG-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+ 
+
+<a href="https://github.com/dangtiendung1409">
+
+<img src="https://img.shields.io/badge/GITHUB-DANGTIENDUNG-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </div>
 
@@ -525,12 +568,27 @@ Building something amazing
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:090979,100:020024&height=180&section=footer&animation=twinkling" width="100%"/>
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=%5BSYSTEM+MESSAGE%5D;%22The+journey+is+just+beginning...%22;%5BSEE+YOU+IN+THE+NEXT+COMMIT%5D"
+/>
+
+<br><br>
+
+### 🌌 THANK YOU FOR VISITING MY DIGITAL WORLD
+
+<br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,40:4c00ff,70:12005e,100:050014&height=200&section=footer&animation=twinkling"
+width="100%"
+/>
 
 </div>
 
-<!-- ===================================================== -->
+<!-- ========================================================= -->
 
-<!--                  END OF PROFILE                        -->
+<!--                   END OF TRANSMISSION                     -->
 
-<!-- ===================================================== -->
+<!-- ========================================================= -->
