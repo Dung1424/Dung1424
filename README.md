@@ -30,6 +30,14 @@
 <a href="mailto:dangtiendung257@gmail.com">
   <img src="https://img.shields.io/badge/Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
 </a>
+<img src="https://img.shields.io/badge/VIET%20NAM-%F0%9F%87%BB%F0%9F%87%B3-0b1020?style=for-the-badge&labelColor=0b1020&color=00b8d4" alt="Viet Nam"/>
+
+<br/><br/>
+
+<a href="#about-me"><img src="https://img.shields.io/badge/01-ABOUT-00e5ff?style=flat-square&labelColor=0b1020" alt="About"/></a>
+<a href="#tech-arsenal"><img src="https://img.shields.io/badge/02-STACK-7c3aed?style=flat-square&labelColor=0b1020" alt="Technology stack"/></a>
+<a href="#github-galaxy"><img src="https://img.shields.io/badge/03-STATS-ff4ecd?style=flat-square&labelColor=0b1020" alt="GitHub statistics"/></a>
+<a href="#connect"><img src="https://img.shields.io/badge/04-CONNECT-00ff9c?style=flat-square&labelColor=0b1020" alt="Contact"/></a>
 
 </div>
 <br/>
@@ -37,6 +45,12 @@
 <div align="center">
   <img src="./assets/neon-terminal.svg" width="100%" alt="Animated developer terminal"/>
 </div>
+
+<div align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="Neon data stream"/>
+</div>
+
+<a id="about-me"></a>
 
 ## `01 // ABOUT_ME`
 
@@ -79,10 +93,7 @@ const dung = {
 </table>
 
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2100&pause=550&color=7C3AED&center=true&vCenter=true&width=820&height=40&lines=%3E+Think+deeply.;%3E+Build+carefully.;%3E+Learn+continuously.;%3E+Ship+something+meaningful."
-    alt="Developer mindset"
-  />
+  <img src="./assets/mission-control.svg" width="100%" alt="Animated mission control dashboard"/>
 </div>
 
 ## `02 // DEVELOPER_DNA`
@@ -94,6 +105,12 @@ const dung = {
 | Turning complexity into practical solutions. | Treating every technology as a new world to explore. | Seeing code as logic shaped by creativity. | Giving ideas meaning by making them real. |
 
 </div>
+
+<div align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="Neon data stream"/>
+</div>
+
+<a id="tech-arsenal"></a>
 
 ## `03 // TECH_ARSENAL`
 
@@ -129,6 +146,12 @@ const dung = {
 | **Workflow** | Git, GitHub |
 
 </details>
+
+<div align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="Neon data stream"/>
+</div>
+
+<a id="github-galaxy"></a>
 
 ## `04 // GITHUB_GALAXY`
 
@@ -171,6 +194,10 @@ const dung = {
 
 </div>
 
+<div align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="Neon data stream"/>
+</div>
+
 ## `05 // SNAKE_QUEST`
 
 <div align="center">
@@ -187,6 +214,12 @@ const dung = {
 </picture>
 
 </div>
+
+<div align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="Neon data stream"/>
+</div>
+
+<a id="connect"></a>
 
 ## `06 // TRANSMISSION`
 

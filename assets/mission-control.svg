@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330" role="img" aria-labelledby="title desc">
+  <title id="title">Mission Control dashboard</title>
+  <desc id="desc">An animated cyber dashboard showing development focus and live system status.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#07101f"/>
+      <stop offset=".55" stop-color="#0d1025"/>
+      <stop offset="1" stop-color="#190b30"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00e5ff"/>
+      <stop offset=".48" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#ff4ecd"/>
+    </linearGradient>
+    <linearGradient id="meter" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00ff9c"/>
+      <stop offset=".58" stop-color="#00e5ff"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <radialGradient id="radar">
+      <stop stop-color="#00e5ff" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#7c3aed" stroke-opacity=".08"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="1096" height="326" rx="22" fill="url(#panel)" stroke="url(#edge)" stroke-width="3"/>
+  <rect x="4" y="4" width="1092" height="322" rx="20" fill="url(#grid)"/>
+
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="34" y="42" fill="#f4f7ff" font-size="19" font-weight="700" letter-spacing="3">MISSION CONTROL</text>
+    <text x="252" y="42" fill="#6f7b98" font-size="12" letter-spacing="2">// DUNG1424</text>
+    <circle cx="875" cy="35" r="5" fill="#00ff9c" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;.25;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="890" y="40" fill="#00ff9c" font-size="13" letter-spacing="2">SYSTEM ONLINE</text>
+
+    <rect x="32" y="62" width="674" height="224" rx="14" fill="#080d1b" fill-opacity=".78" stroke="#283455"/>
+    <text x="54" y="91" fill="#00e5ff" font-size="12" letter-spacing="2">ACTIVE DEVELOPMENT SIGNALS</text>
+
+    <g font-size="13">
+      <text x="55" y="128" fill="#cbd5e1">UI EXPERIENCES</text>
+      <rect x="220" y="116" width="420" height="12" rx="6" fill="#182039"/>
+      <rect x="220" y="116" width="0" height="12" rx="6" fill="url(#meter)" filter="url(#glow)">
+        <animate attributeName="width" values="0;361;361;0" keyTimes="0;.22;.86;1" dur="8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="656" y="128" fill="#00e5ff">86%</text>
+
+      <text x="55" y="166" fill="#cbd5e1">BACKEND SYSTEMS</text>
+      <rect x="220" y="154" width="420" height="12" rx="6" fill="#182039"/>
+      <rect x="220" y="154" width="0" height="12" rx="6" fill="url(#meter)" filter="url(#glow)">
+        <animate attributeName="width" values="0;344;344;0" keyTimes="0;.27;.86;1" dur="8s" begin=".25s" repeatCount="indefinite"/>
+      </rect>
+      <text x="656" y="166" fill="#00e5ff">82%</text>
+
+      <text x="55" y="204" fill="#cbd5e1">CLEAN CODE</text>
+      <rect x="220" y="192" width="420" height="12" rx="6" fill="#182039"/>
+      <rect x="220" y="192" width="0" height="12" rx="6" fill="url(#meter)" filter="url(#glow)">
+        <animate attributeName="width" values="0;378;378;0" keyTimes="0;.3;.86;1" dur="8s" begin=".5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="656" y="204" fill="#00e5ff">90%</text>
+
+      <text x="55" y="242" fill="#cbd5e1">LEARNING LOOP</text>
+      <rect x="220" y="230" width="420" height="12" rx="6" fill="#182039"/>
+      <rect x="220" y="230" width="0" height="12" rx="6" fill="url(#meter)" filter="url(#glow)">
+        <animate attributeName="width" values="0;420;420;0" keyTimes="0;.34;.86;1" dur="8s" begin=".75s" repeatCount="indefinite"/>
+      </rect>
+      <text x="648" y="242" fill="#00ff9c">∞</text>
+    </g>
+
+    <text x="55" y="270" fill="#64748b" font-size="11" letter-spacing="1.2">BUILD  •  MEASURE  •  LEARN  •  ITERATE</text>
+
+    <rect x="728" y="62" width="340" height="224" rx="14" fill="#080d1b" fill-opacity=".78" stroke="#283455"/>
+    <text x="750" y="91" fill="#ff4ecd" font-size="12" letter-spacing="2">CURIOSITY RADAR</text>
+
+    <g transform="translate(898 181)">
+      <circle r="78" fill="url(#radar)" stroke="#1c6175"/>
+      <circle r="55" fill="none" stroke="#28405a"/>
+      <circle r="29" fill="none" stroke="#28405a"/>
+      <path d="M-78 0H78M0-78V78" stroke="#28405a"/>
+      <path d="M0 0L0-76A76 76 0 0 1 66-38Z" fill="#00e5ff" opacity=".15">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+      </path>
+      <g>
+        <circle cx="0" cy="-58" r="4" fill="#ff4ecd" filter="url(#glow)"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5.5s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <circle cx="43" cy="18" r="4" fill="#00ff9c" filter="url(#glow)">
+          <animate attributeName="opacity" values=".25;1;.25" dur="1.6s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+      <circle r="6" fill="#00e5ff" filter="url(#glow)">
+        <animate attributeName="r" values="4;7;4" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <text x="762" y="274" fill="#64748b" font-size="11">SIGNAL: STABLE</text>
+    <text x="949" y="274" fill="#00ff9c" font-size="11">HIGH</text>
+
+    <rect x="24" y="307" width="1052" height="2" rx="1" fill="#222c46"/>
+    <rect x="24" y="307" width="180" height="2" rx="1" fill="url(#edge)" filter="url(#glow)">
+      <animate attributeName="x" values="24;896;24" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
+

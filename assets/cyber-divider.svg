@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="64" viewBox="0 0 1100 64" role="img" aria-label="Animated neon data stream divider">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset=".22" stop-color="#00e5ff"/>
+      <stop offset=".5" stop-color="#7c3aed"/>
+      <stop offset=".78" stop-color="#ff4ecd"/>
+      <stop offset="1" stop-color="#ff4ecd" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <path d="M20 32H390L410 18H690L710 32H1080" fill="none" stroke="url(#line)" stroke-width="2"/>
+  <path d="M20 38H360L380 52H720L740 38H1080" fill="none" stroke="#7c3aed" stroke-opacity=".18"/>
+  <text x="550" y="39" text-anchor="middle" fill="#7782a0" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="4">DUNG1424 // NEON DATA STREAM</text>
+
+  <circle r="4" fill="#00e5ff" filter="url(#glow)">
+    <animateMotion dur="4s" repeatCount="indefinite" path="M20 32H390L410 18H690L710 32H1060"/>
+  </circle>
+  <circle r="3" fill="#ff4ecd" filter="url(#glow)">
+    <animateMotion dur="4.8s" begin="-2.4s" repeatCount="indefinite" path="M1080 38H740L720 52H380L360 38H40"/>
+  </circle>
+  <circle cx="410" cy="18" r="3" fill="#00ff9c">
+    <animate attributeName="opacity" values=".2;1;.2" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="690" cy="18" r="3" fill="#ff4ecd">
+    <animate attributeName="opacity" values="1;.2;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
