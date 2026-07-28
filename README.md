@@ -7,6 +7,15 @@
   alt="Dang Tien Dung — Full Stack Developer"
 />
 
+<!-- Pixel bunny animation: DIMFLIX/DIMFLIX (MIT). See THIRD_PARTY_NOTICES.md. -->
+<img
+  src="./assets/pixel-bunny.gif"
+  width="300"
+  alt="Animated pixel bunny mascot"
+/>
+
+<br/>
+
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=750&color=00E5FF&center=true&vCenter=true&repeat=true&random=false&width=900&height=45&lines=%5B+SYSTEM+ONLINE+%5D;%3E+Hello%2C+world.+I'm+Dang+Tien+Dung.;%3E+I+build+full-stack+web+experiences.;%3E+Laravel+%C3%97+Vue.js+%C3%97+Node.js;%3E+Turning+ideas+into+useful+products.;%5B+DEVELOPER+MODE+ACTIVATED+%5D"
   alt="Animated introduction"
