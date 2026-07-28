@@ -1,14 +1,10 @@
-<!-- ========================================================= -->
-
-<!--                  DANG TIEN DUNG                           -->
-
-<!--            ANIME CYBERPUNK DEVELOPER                      -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-<!-- ===================== HERO ====================== -->
+<!-- ========================= -->
+
+<!--        ANIMATED HEADER     -->
+
+<!-- ========================= -->
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,30:12005e,65:4c00ff,100:00e5ff&height=300&section=header&text=DANG%20TIEN%20DUNG&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=58"
@@ -17,27 +13,28 @@ width="100%"
 
 <br>
 
-<!-- ================= TYPING ANIMATION ================= -->
+<!-- ========================= -->
+
+<!--       TYPING ANIMATION     -->
+
+<!-- ========================= -->
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=%5B+SYSTEM+ONLINE+%5D;%3E+Hello%2C+world.+I'm+Dang+Tien+Dung.;%3E+Full+Stack+Web+Developer.;%3E+I+build+things+that+live+on+the+web.;%3E+Laravel+%2B+Vue.js+%2B+Node.js;%3E+Turning+ideas+into+digital+experiences.;%5B+ENTERING+DEVELOPER+MODE+%5D"
-alt="Typing animation"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=%5B+SYSTEM+ONLINE+%5D;%3E+Hello%2C+world.+I'm+Dang+Tien+Dung.;%3E+Full+Stack+Web+Developer.;%3E+Laravel+%2B+Vue.js+%2B+Node.js;%3E+Turning+ideas+into+digital+experiences.;%3E+Building.+Learning.+Improving.;%5B+DEVELOPER+MODE+ACTIVATED+%5D"
 />
 
 <br><br>
 
-<!-- ================= PROFILE STATS ================= -->
-
 <img
-src="https://komarev.com/ghpvc/?username=dangtiendung1409&label=VISITORS&color=00e5ff&style=for-the-badge"
+src="https://komarev.com/ghpvc/?username=Dung1424&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge"
 />
 
  
 
-<a href="https://github.com/dangtiendung1409?tab=followers">
+<a href="https://github.com/Dung1424">
 
 <img
-src="https://img.shields.io/github/followers/dangtiendung1409?label=FOLLOWERS&style=for-the-badge&color=7c3aed"
+src="https://img.shields.io/github/followers/Dung1424?label=FOLLOWERS&style=for-the-badge&color=7c3aed"
 />
 
 </a>
@@ -51,7 +48,7 @@ src="https://img.shields.io/github/followers/dangtiendung1409?label=FOLLOWERS&st
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=500&color=00FF9C&center=true&vCenter=true&width=700&lines=%5BOK%5D+Loading+Developer+Profile...;%5BOK%5D+Initializing+Creativity...;%5BOK%5D+Connecting+to+GitHub...;%5BOK%5D+Loading+Laravel...;%5BOK%5D+Loading+Vue.js...;%5BOK%5D+Loading+Node.js...;%5BOK%5D+All+systems+operational."
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=500&color=00FF9C&center=true&vCenter=true&width=750&lines=%5BOK%5D+Loading+Developer+Profile...;%5BOK%5D+Initializing+Creativity...;%5BOK%5D+Connecting+to+GitHub...;%5BOK%5D+Loading+Laravel...;%5BOK%5D+Loading+Vue.js...;%5BOK%5D+Loading+Node.js...;%5BOK%5D+All+systems+operational."
 />
 
 </div>
@@ -59,22 +56,23 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=
 <br>
 
 ```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│          D A N G   T I E N   D U N G                    │
-│                                                          │
-│   [ IDENTITY ]     FULL STACK DEVELOPER                  │
-│   [ LOCATION ]     VIET NAM 🇻🇳                           │
-│   [ STATUS ]       ONLINE                                │
-│   [ MODE ]         BUILDING                              │
-│   [ POWER ]        COFFEE + CODE ☕                      │
-│                                                          │
-│   > Initializing creativity...                           │
-│   > Loading imagination...                               │
-│   > Compiling ideas...                                   │
-│   > Ready to build something awesome.                    │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│                 D A N G   T I E N   D U N G                │
+│                                                              │
+│   [ ROLE ]       FULL STACK DEVELOPER                        │
+│   [ LOCATION ]   VIET NAM 🇻🇳                                │
+│   [ STATUS ]     ONLINE                                      │
+│   [ MODE ]       BUILDING                                   │
+│   [ STACK ]      PHP • Laravel • Vue • Node.js              │
+│   [ POWER ]      COFFEE + CODE ☕                            │
+│                                                              │
+│   > Initializing creativity...                               │
+│   > Loading imagination...                                   │
+│   > Compiling ideas...                                       │
+│   > Ready to build something awesome.                        │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 ---
@@ -82,6 +80,14 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=
 # 🧬 CHARACTER // DANG TIEN DUNG
 
 <div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=FF69B4&center=true&vCenter=true&width=800&lines=%3E+Welcome+to+my+digital+world.;%3E+I'm+a+developer+who+loves+to+create.;%3E+I+turn+ideas+into+real+products.;%3E+And+bugs+into+lessons."
+/>
+
+</div>
+
+<br>
 
 <table>
 <tr>
@@ -95,7 +101,7 @@ width="380"
 
 </td>
 
-<td width="50%" align="left">
+<td width="50%">
 
 ### 👋 HELLO, I'M DŨNG
 
@@ -103,30 +109,34 @@ I'm a passionate programmer who enjoys turning ideas into real products.
 
 I love exploring new technologies, solving difficult problems, and building experiences that people can actually use.
 
-<br>
+### 🌌 MY MINDSET
 
-🌌 **My mindset**
+```text
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Fix
+  ↓
+Improve
+  ↓
+Repeat
+```
 
-> Learn → Build → Break → Fix → Improve
+### ⚡ CURRENT FOCUS
 
-<br>
-
-🔥 **My world**
-
-Web Development
-
-Backend Engineering
-
-Frontend Experience
-
-Technology Exploration
+* Building modern web applications
+* Exploring backend architecture
+* Improving frontend experiences
+* Learning new technologies
+* Writing cleaner and more maintainable code
 
 </td>
 
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -140,39 +150,40 @@ Technology Exploration
 
 <td align="center" width="25%">
 
-### 🧩
+## 🧩
 
-**PROBLEM SOLVER**
+### PROBLEM SOLVER
 
-I enjoy turning complex problems into simple solutions.
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡
-
-**FAST LEARNER**
-
-New technology is another world waiting to be explored.
+I enjoy turning complex problems into simple and practical solutions.
 
 </td>
 
 <td align="center" width="25%">
 
-### 🎨
+## ⚡
 
-**CREATOR**
+### FAST LEARNER
 
-Code is not only logic. It's also creativity.
+Every new technology is another world waiting to be explored.
 
 </td>
 
 <td align="center" width="25%">
 
-### 🚀
+## 🎨
 
-**BUILDER**
+### CREATOR
+
+Code is not only logic.
+It's also creativity.
+
+</td>
+
+<td align="center" width="25%">
+
+## 🚀
+
+### BUILDER
 
 Ideas become meaningful when they become real.
 
@@ -200,31 +211,31 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=
 
 <div align="center">
 
-### 🎨 DIGITAL INTERFACE
+### 🎨 FRONTEND
 
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,react,nextjs&theme=dark"/>
 
 <br><br>
 
-### ⚙️ SERVER CORE
+### ⚙️ BACKEND
 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,dotnet,spring&theme=dark"/>
 
 <br><br>
 
-### 📱 MOBILE UNIT
+### 📱 MOBILE
 
 <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark"/>
 
 <br><br>
 
-### 🗄️ DATA CORE
+### 🗄️ DATABASE
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&theme=dark"/>
 
 <br><br>
 
-### 🚀 INFRASTRUCTURE
+### 🚀 DEVOPS & TOOLS
 
 <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github&theme=dark"/>
 
@@ -232,7 +243,7 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=
 
 ---
 
-# 🌌 MY DIGITAL UNIVERSE
+# 🌌 DIGITAL UNIVERSE
 
 <div align="center">
 
@@ -340,7 +351,7 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
-│                     CODE LAB // ONLINE                     │
+│                    CODE LAB // ONLINE                      │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
 │  [01] FRONTEND                                             │
@@ -356,7 +367,7 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=
 │       Trying new tools, frameworks and ideas               │
 │                                                            │
 │  [05] LEARNING                                             │
-│       Always improving one line of code at a time           │
+│       Improving one line of code at a time                  │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
 ```
@@ -365,7 +376,7 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=
 
 <img
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ1NnQ1Y3J2cDZ4ZDJpZ3U0dG9tZWJ1ZGF2d3B3aHJ5Z3U5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif"
-width="450"
+width="420"
 />
 
 </div>
@@ -404,33 +415,33 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=dangtiendung1409&theme=react-dark&hide_border=true&area=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Dung1424&theme=react-dark&hide_border=true&area=true"
 width="100%"
 />
 
 <br><br>
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dangtiendung1409&theme=radical"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dung1424&theme=radical"
 width="100%"
 />
 
 <br><br>
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dangtiendung1409&theme=radical"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dung1424&theme=radical"
 width="49%"
 />
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dangtiendung1409&theme=radical"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dung1424&theme=radical"
 width="49%"
 />
 
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com?user=dangtiendung1409&theme=radical&hide_border=true"
+src="https://streak-stats.demolab.com?user=Dung1424&theme=radical&hide_border=true"
 />
 
 </div>
@@ -447,10 +458,24 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=
 
 <br><br>
 
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Dung1424/Dung1424/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Dung1424/Dung1424/output/github-contribution-grid-snake.svg"
+/>
+
 <img
-src="https://raw.githubusercontent.com/dangtiendung1409/dangtiendung1409/output/github-contribution-grid-snake.svg"
+src="https://raw.githubusercontent.com/Dung1424/Dung1424/output/github-contribution-grid-snake.svg"
 width="100%"
 />
+
+</picture>
 
 <br><br>
 
@@ -536,10 +561,10 @@ src="https://img.shields.io/badge/EMAIL-DANG%20TIEN%20DUNG-EA4335?style=for-the-
 
  
 
-<a href="https://github.com/dangtiendung1409">
+<a href="https://github.com/Dung1424">
 
 <img
-src="https://img.shields.io/badge/GITHUB-DANGTIENDUNG-181717?style=for-the-badge&logo=github&logoColor=white"
+src="https://img.shields.io/badge/GITHUB-DUNG1424-181717?style=for-the-badge&logo=github&logoColor=white"
 />
 
 </a>
@@ -571,6 +596,6 @@ width="100%"
 
 <!-- ========================================================= -->
 
-<!--                   END OF TRANSMISSION                     -->
+<!--                    END OF TRANSMISSION                    -->
 
 <!-- ========================================================= -->
